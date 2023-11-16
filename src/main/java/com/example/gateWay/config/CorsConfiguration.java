@@ -16,7 +16,7 @@ public class CorsConfiguration {
     public CorsWebFilter corsFilter() {
         org.springframework.web.cors.CorsConfiguration config = new org.springframework.web.cors.CorsConfiguration();
         config.setAllowCredentials(true);
-        config.setAllowedOrigins(List.of("*"));
+        config.setAllowedOrigins(List.of("https://sophosuniversity.vercel.app/"));
         config.setAllowedMethods(List.of("GET", "POST","PATCH", "PUT", "DELETE", "OPTIONS"));
         config.setAllowedHeaders(List.of("*"));
 
