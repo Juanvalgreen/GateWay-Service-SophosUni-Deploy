@@ -23,7 +23,7 @@ spring:
         corsConfigurations:
           '[/**]':
             allowedOrigins:
-              - "*" # Add your allowed origin
+              - "https://sophosuniversity.vercel.app/" # Add your allowed origin
             allowedMethods:
               - 'GET'
               - 'POST'
