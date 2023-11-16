@@ -1,0 +1,6 @@
+/Users/admon/Documents/universidad/SophosUniversity/BackEnd/GatewayService/src/main/java/com/example/gateWay/config/CorsConfiguration.java
+/Users/admon/Documents/universidad/SophosUniversity/BackEnd/GatewayService/src/main/java/com/example/gateWay/filter/RouteValidator.java
+/Users/admon/Documents/universidad/SophosUniversity/BackEnd/GatewayService/src/main/java/com/example/gateWay/filter/AuthenticationFilter.java
+/Users/admon/Documents/universidad/SophosUniversity/BackEnd/GatewayService/src/main/java/com/example/gateWay/config/Config.java
+/Users/admon/Documents/universidad/SophosUniversity/BackEnd/GatewayService/src/main/java/com/example/gateWay/GateWayApplication.java
+/Users/admon/Documents/universidad/SophosUniversity/BackEnd/GatewayService/src/main/java/com/example/gateWay/utils/JWTUtil.java
