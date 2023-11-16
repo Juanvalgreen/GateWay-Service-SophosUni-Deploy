@@ -21,7 +21,7 @@ public class CorsConfiguration {
         config.setAllowedHeaders(List.of("Origin", "Content-Type", "Accept", "Authorization", "Cookie"));
 
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
-        source.registerCorsConfiguration("/**", config);
+        source.registerCorsConfiguration("/*", config);
 
         return new CorsWebFilter(source);
     }

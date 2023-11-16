@@ -21,7 +21,7 @@ spring:
       globalcors:
         #add-to-simple-url-handler-mapping: true
         corsConfigurations:
-          '[/**]':
+          '[/*]':
             allowedOrigins:
               - "https://sophosuniversity.vercel.app/" # Add your allowed origin
             allowedMethods:
